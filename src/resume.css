@@ -1,0 +1,65 @@
+#firstdiv {
+    width: 100%;
+}
+
+#myname{
+    text-align:center; 
+    padding: 10px 300px 10px 10px;
+
+}
+
+.resume-section{
+    width:60%;
+    height: 550px; 
+    float:left;
+}
+
+#myimg{
+    height:150px;
+    width:150px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(8, 8, 134);
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(8, 8, 134);
+}
+
+h2.edu-inst {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+h4 {
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 3px 40px 3px 14px;
+    width: 10px;
+    margin: 0px;
+    background-color: rgb(8, 8, 134);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#myname2{
+    text-align: right;
+     font-weight:100;
+      padding: 0px 200px 10px 10px; 
+      margin: 0px;
+      border: 0px;
+}
+
+#seconddiv{
+    width:40%;
+    height: 550px;
+     float:right
+}
